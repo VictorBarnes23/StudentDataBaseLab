@@ -1,0 +1,15 @@
+C:\Users\vicpb\Downloads\StudentDataBaseLab\StudentDataBaseLab\bin\Debug\net8.0\StudentDataBaseLab.exe
+C:\Users\vicpb\Downloads\StudentDataBaseLab\StudentDataBaseLab\bin\Debug\net8.0\StudentDataBaseLab.deps.json
+C:\Users\vicpb\Downloads\StudentDataBaseLab\StudentDataBaseLab\bin\Debug\net8.0\StudentDataBaseLab.runtimeconfig.json
+C:\Users\vicpb\Downloads\StudentDataBaseLab\StudentDataBaseLab\bin\Debug\net8.0\StudentDataBaseLab.dll
+C:\Users\vicpb\Downloads\StudentDataBaseLab\StudentDataBaseLab\bin\Debug\net8.0\StudentDataBaseLab.pdb
+C:\Users\vicpb\Downloads\StudentDataBaseLab\StudentDataBaseLab\obj\Debug\net8.0\StudentDataBaseLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicpb\Downloads\StudentDataBaseLab\StudentDataBaseLab\obj\Debug\net8.0\StudentDataBaseLab.AssemblyInfoInputs.cache
+C:\Users\vicpb\Downloads\StudentDataBaseLab\StudentDataBaseLab\obj\Debug\net8.0\StudentDataBaseLab.AssemblyInfo.cs
+C:\Users\vicpb\Downloads\StudentDataBaseLab\StudentDataBaseLab\obj\Debug\net8.0\StudentDataBaseLab.csproj.CoreCompileInputs.cache
+C:\Users\vicpb\Downloads\StudentDataBaseLab\StudentDataBaseLab\obj\Debug\net8.0\StudentDataBaseLab.sourcelink.json
+C:\Users\vicpb\Downloads\StudentDataBaseLab\StudentDataBaseLab\obj\Debug\net8.0\StudentDataBaseLab.dll
+C:\Users\vicpb\Downloads\StudentDataBaseLab\StudentDataBaseLab\obj\Debug\net8.0\refint\StudentDataBaseLab.dll
+C:\Users\vicpb\Downloads\StudentDataBaseLab\StudentDataBaseLab\obj\Debug\net8.0\StudentDataBaseLab.pdb
+C:\Users\vicpb\Downloads\StudentDataBaseLab\StudentDataBaseLab\obj\Debug\net8.0\StudentDataBaseLab.genruntimeconfig.cache
+C:\Users\vicpb\Downloads\StudentDataBaseLab\StudentDataBaseLab\obj\Debug\net8.0\ref\StudentDataBaseLab.dll
